@@ -2,7 +2,7 @@
 title: "my first hw"
 author: "Shihao Yang"
 date: "9/23/2021"
-output: github_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
