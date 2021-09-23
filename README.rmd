@@ -1,0 +1,13 @@
+---
+title: "my first hw"
+author: "Shihao Yang"
+date: "9/16/2021"
+output: github_document
+---
+
+1) make a new Rmarkdown File
+2) Save file as README.Rmd
+```{r}
+hist(rnorm(10))
+```
+
